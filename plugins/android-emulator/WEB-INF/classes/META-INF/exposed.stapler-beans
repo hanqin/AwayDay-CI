@@ -1,0 +1,6 @@
+hudson.plugins.android_emulator.AndroidEmulator
+hudson.plugins.android_emulator.AndroidEmulator.HardwareProperty
+hudson.plugins.android_emulator.monkey.MonkeyAction
+hudson.plugins.android_emulator.monkey.MonkeyBuilder
+hudson.plugins.android_emulator.monkey.MonkeyRecorder
+hudson.plugins.android_emulator.snapshot.AbstractSnapshotBuilder

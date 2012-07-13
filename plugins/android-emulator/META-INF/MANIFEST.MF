@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: orrc
+Build-Jdk: 1.6.0_31
+Extension-Name: android-emulator
+Implementation-Title: android-emulator
+Implementation-Version: 2.2
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: android-emulator
+Long-Name: Android Emulator Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Android+Emulator+Plugin
+Plugin-Version: 2.2
+Hudson-Version: 1.377
+Plugin-Dependencies: port-allocator:1.5
+Plugin-Developers: Christopher Orr:orrc:chris@orr.me.uk
+

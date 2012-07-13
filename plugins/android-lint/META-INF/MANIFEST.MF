@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: chris
+Build-Jdk: 1.6.0_31
+Extension-Name: android-lint
+Specification-Title: Parses Android Lint output and displays the resul
+ ts for analysis.
+Implementation-Title: android-lint
+Implementation-Version: 1.0.1
+Plugin-Class: org.jenkinsci.plugins.android_lint.LintPlugin
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: android-lint
+Long-Name: Android Lint Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Android+Lint+Plugin
+Plugin-Version: 1.0.1
+Hudson-Version: 1.409
+Jenkins-Version: 1.409
+Plugin-Dependencies: maven-plugin:1.409,dashboard-view:1.8.1;resolutio
+ n:=optional,analysis-core:1.34,token-macro:1.1;resolution:=optional
+Plugin-Developers: Christopher Orr:orrc:chris@orr.me.uk
+

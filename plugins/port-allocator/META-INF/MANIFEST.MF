@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: kohsuke
+Build-Jdk: 1.6.0_19-fastdebug
+Extension-Name: port-allocator
+Implementation-Title: port-allocator
+Implementation-Version: 1.5
+Plugin-Class: org.jvnet.hudson.plugins.port_allocator.PluginImpl
+Short-Name: port-allocator
+Long-Name: Hudson Port Allocator Plug-in
+Url: http://wiki.hudson-ci.org/display/HUDSON/Port+Allocator+Plugin
+Plugin-Version: 1.5
+Hudson-Version: 1.324
+Plugin-Developers: Rama Pulavarthi:ramapulavarthi:,Kohsuke Kawaguchi:k
+ ohsuke:
+

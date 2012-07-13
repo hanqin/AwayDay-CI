@@ -1,0 +1,2 @@
+#Thu Mar 22 19:48:35 CET 2012
+constructor=healthy,unhealthy,thresholdLimit,useDeltaValues,unstableTotalAll,unstableTotalHigh,unstableTotalNormal,unstableTotalLow,unstableNewAll,unstableNewHigh,unstableNewNormal,unstableNewLow,failedTotalAll,failedTotalHigh,failedTotalNormal,failedTotalLow,failedNewAll,failedNewHigh,failedNewNormal,failedNewLow,canRunOnFailed,pattern

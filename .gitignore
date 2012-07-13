@@ -1,2 +1,5 @@
 war/
 updates/
+.owner
+Workspace clean-up.log
+queue.xml.bak

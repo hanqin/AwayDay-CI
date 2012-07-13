@@ -1,0 +1,6 @@
+#Tue Mar 27 14:42:01 CEST 2012
+seed=Seed value for the random number generator. Number, "random", or "timestamp". 
+filename=File to write monkey results to. 
+packageId=Package ID to restrict the monkey to. 
+eventCount=How many events to perform. 
+throttleMs=How many milliseconds between each event. 
