@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<de.pellepelster.jenkins.walldisplay.Configuration>
+  <theme>default</theme>
+  <fontFamily>sans-serif</fontFamily>
+  <jenkinsTimeOut>15</jenkinsTimeOut>
+  <jenkinsUpdateInterval>20</jenkinsUpdateInterval>
+  <showDetails>false</showDetails>
+  <showBuildNumber>true</showBuildNumber>
+  <showDisabledBuilds>true</showDisabledBuilds>
+</de.pellepelster.jenkins.walldisplay.Configuration>

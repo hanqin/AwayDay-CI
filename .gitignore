@@ -3,3 +3,9 @@ updates/
 .owner
 Workspace clean-up.log
 queue.xml.bak
+jobs/**/builds/
+jobs/**/lastStable
+jobs/**/lastSuccessful
+jobs/**/nextBuildNumber
+jobs/**/workspace/
+jobs/**/scm-polling.log

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<au.com.rayh.XCodeBuilder_-DescriptorImpl>
+  <helpRedirect/>
+  <xcodebuildPath>/usr/bin/xcodebuild</xcodebuildPath>
+  <agvtoolPath>/usr/bin/agvtool</agvtoolPath>
+  <xcrunPath>/usr/bin/xcrun</xcrunPath>
+</au.com.rayh.XCodeBuilder_-DescriptorImpl>
