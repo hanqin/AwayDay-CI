@@ -10,3 +10,4 @@ jobs/**/nextBuildNumber
 jobs/**/workspace/
 jobs/**/scm-polling.log
 Fingerprint cleanup.log
+*.log
