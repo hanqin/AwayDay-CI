@@ -54,10 +54,11 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>echo sdk.dir=$ANDROID_HOME &gt; $WORKSPACE/local.properties</command>
+      <command>echo sdk.dir=$ANDROID_HOME &gt; $WORKSPACE/AwayDay_Core/local.properties</command>
     </hudson.tasks.Shell>
     <hudson.tasks.Ant>
       <targets>release</targets>
+      <buildFile>$WORKSPACE/AwayDay_Core/build.xml</buildFile>
     </hudson.tasks.Ant>
   </builders>
   <publishers>
